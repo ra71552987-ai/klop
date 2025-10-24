@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: bot-factory
-    env: docker
-    plan: free
-    buildCommand: ""
-    startCommand: php bot.php
